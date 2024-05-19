@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Kashif</h1>
 <h3 align="center">I am a Full Stack Software Engineer based in Dubai</h3>
 
-- 🔭 I’m currently working on a startup as a founding engineer [AlifCare](https://play.google.com/store/apps/details?id=com.alifcare)
+- 🔭 I previously worked on a startup as a founding engineer [AlifCare](https://play.google.com/store/apps/details?id=com.alifcare)
 
 - 📫 How to reach me **hamzakashif157@gmail.com**
 
